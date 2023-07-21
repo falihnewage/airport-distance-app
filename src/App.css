@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.input-container {
+  margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+input.bigger-input {
+  width: 300px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the height as needed */
+  font-size: 16px; /* Adjust the font size as needed */
+  /* Add any other desired styles */
+}
